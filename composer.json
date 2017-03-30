@@ -1,0 +1,13 @@
+{
+	"name" : "alisson/empresa",
+	"authors" : [{
+			"name" : "Alisson Zampietro",
+			"email" : "alisson.zampietro@gmail.com"
+		}
+	],
+	"autoload": {
+		"psr-4":{
+			"App\\": "app/"
+		}
+	}
+}
