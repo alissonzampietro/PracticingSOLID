@@ -8,6 +8,6 @@ class CalculadoraDeSalario
 
     public function calcula(Funcionario $funcionario)
     {
-        
+        switch ($funcionario->getCargo())
     }
 }
